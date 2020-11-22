@@ -1,0 +1,13 @@
+D:\Projects\CheckersGame\CheckersGame\obj\Debug\netcoreapp3.1\CheckersGame.AssemblyInfoInputs.cache
+D:\Projects\CheckersGame\CheckersGame\obj\Debug\netcoreapp3.1\CheckersGame.AssemblyInfo.cs
+D:\Projects\CheckersGame\CheckersGame\obj\Debug\netcoreapp3.1\CheckersGame.csproj.CoreCompileInputs.cache
+D:\Projects\CheckersGame\CheckersGame\obj\Debug\netcoreapp3.1\CheckersGame.dll
+D:\Projects\CheckersGame\CheckersGame\obj\Debug\netcoreapp3.1\CheckersGame.pdb
+D:\Projects\CheckersGame\CheckersGame\bin\Debug\netcoreapp3.1\CheckersGame.exe
+D:\Projects\CheckersGame\CheckersGame\bin\Debug\netcoreapp3.1\CheckersGame.deps.json
+D:\Projects\CheckersGame\CheckersGame\bin\Debug\netcoreapp3.1\CheckersGame.runtimeconfig.json
+D:\Projects\CheckersGame\CheckersGame\bin\Debug\netcoreapp3.1\CheckersGame.runtimeconfig.dev.json
+D:\Projects\CheckersGame\CheckersGame\bin\Debug\netcoreapp3.1\CheckersGame.dll
+D:\Projects\CheckersGame\CheckersGame\bin\Debug\netcoreapp3.1\CheckersGame.pdb
+D:\Projects\CheckersGame\CheckersGame\obj\Debug\netcoreapp3.1\CheckersGame.csprojAssemblyReference.cache
+D:\Projects\CheckersGame\CheckersGame\obj\Debug\netcoreapp3.1\CheckersGame.genruntimeconfig.cache
